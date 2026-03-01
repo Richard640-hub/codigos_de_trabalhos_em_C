@@ -8,3 +8,18 @@ e PIB per capita, além de comparar as cartas.
 
 Este projeto é um programa desenvolvido em linguagem C que simula a movimentação de peças
 de xadrez utilizando estruturas de repetição, loops aninhados e recursividade.
+
+# batalha naval em C
+
+Simulação do jogo batalha naval em C porem com habilidades especiais.
+
+# como compilar
+
+gcc super_trunfo.c -o super_trunfo
+./super_trunfo
+
+gcc xadrez_movimentos.c -o xadrez
+./xadrez
+
+gcc batalha_naval.c -o batalha
+./batalha
